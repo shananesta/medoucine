@@ -32,5 +32,5 @@ Vue.component('main-component', require('./components/MainComponent.vue'));
  */
 
 const app = new Vue({
-    el: '#app'
+    el: '#app',
 });
